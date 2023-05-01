@@ -1,5 +1,7 @@
 # Enterprise Azure OpenAI
 
+test
+
 Repository detailing the deployment of an Enterprise Azure OpenAI reference architecture. 
 
 ## Key Solution Advantages:
